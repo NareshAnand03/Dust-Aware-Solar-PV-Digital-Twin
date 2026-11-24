@@ -82,6 +82,13 @@ The difference between expected and measured PV power provides the diagnostic si
 - PV power loss due to soiling.
 - Expected versus measured PV power comparison.
 - Digital twin residual and cleaning decision analysis.
+- ![Simulink Model](<simulink model.png>)
+![Irradiance Curve](<irradiance curve.png>)
+![Temperature Curve](<temperature curve.png>)
+![Expected Power](<expected power.png>)
+![Soiling Loss](<soiling loss.png>)
+![Expected Power vs Physical Model Power](<expected power vs physical model power.png>)
+![Residual Prediction](<residual prediction.png>)
 
 ### SAM Results
 
@@ -91,6 +98,9 @@ The difference between expected and measured PV power provides the diagnostic si
 | Specific Yield | 563 kWh/kW |
 | Capacity Factor (DC) | 6.4% |
 | Annual AC Energy | 138,649 kWh/year |
+![SAM Output](<sam output.png>)
+![SAM Output 1](<sam output 1.png>)
+![SAM Output 2](<sam output 2.png>)
 
 *Note: These values are reported simulation results from the project presentation.*
 
