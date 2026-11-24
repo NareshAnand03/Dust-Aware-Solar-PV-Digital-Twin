@@ -5,8 +5,8 @@
 ### MATLAB/Simulink and SAM Simulation Study
 
 **Developed by:**
-- Pragadeesh R
 - Naresh Anand D
+- Pragadeesh R
 
 **Department:** Electrical and Electronics Engineering  
 **College:** Anjalai Ammal Mahalingam Engineering College
