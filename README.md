@@ -1,4 +1,6 @@
 # Digital Twin-Based Performance Optimization of a Dust-Aware Solar PV System for Mining Operations
+## System Architecture
+![Dust-Aware Solar PV Digital Twin Block Diagram](digital-twin-pv-block-diagram.webp)
 
 ### MATLAB/Simulink and SAM Simulation Study
 
