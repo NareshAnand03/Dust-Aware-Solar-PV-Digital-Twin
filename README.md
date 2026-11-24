@@ -104,6 +104,10 @@ The difference between expected and measured PV power provides the diagnostic si
 
 *Note: These values are reported simulation results from the project presentation.*
 
+## Project Documentation
+- [Digital_Twin_Framework.pptx](Digital_Twin_Framework.pptx) — Presentation on the dust-aware solar PV digital twin architecture, MATLAB/Simulink study, and SAM results.
+- [Mining_Solar_PV_Digital_Twin.docx](Mining_Solar_PV_Digital_Twin.docx) — Technical report detailing electrical sizing, digital-twin framework, validation plan, and limitations.
+
 ## Conclusion
 
 The project combines MATLAB/Simulink PV modelling, SAM-based annual performance evaluation, and a digital twin framework.
